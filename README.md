@@ -17,3 +17,8 @@ Here's A Quick List of what i need for my PCB.
   - 1x 2N3904 NPN Resistor
   - 2x Green LEDs
 
+# My Info
+  - Name: Lawri Darbyshire
+  - Slack handle: @Lawri
+  - Email: lawri@lawridarbyshire.co.uk
+  - Web: lawridarbyshire.co.uk
