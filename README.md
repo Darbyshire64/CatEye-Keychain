@@ -6,6 +6,18 @@ when its Bright and Brighten them when its dark. It was made with KiCad 8. The P
 
 It takes a 3V Coin Battery. this is fed to an LDR witch controls a transistor that turns on or off the Two LEDs in the cats eyes.
 
+# Pictures
+
+  Some Pictures of the PCB Diagram & Schematics and a 3D Version of the PCB however due to some isssues with my Ki cad install commponennts do not apear in 3d however can actually fit on there. 
+  
+## PCB
+
+PCB Diagram
+
+Schematic
+
+3D View
+
 # BOM 
 
 Here's A Quick List of what i need for my PCB.
