@@ -13,7 +13,7 @@ It takes a 3V Coin Battery. this is fed to an LDR witch controls a transistor th
 ## PCB
 
 PCB Diagram
-
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0fa0a772c9bdbce7bc11fd20787cd51eb4f1c7c6_cateye-pcb-colour-1.png)
 Schematic
 
 3D View
