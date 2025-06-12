@@ -1,6 +1,6 @@
 # Cateye Keychain
 A PCB i made for an HackClub YSWS Called Solder. The PCB Will Automaticly Dim The LEDS 
-when its Bright and Brighten them when its dark. It was made with KiCad 8. The PCB Mesurements are aprox 65mm x 40mm
+when its Bright and Brighten them when its dark. It was made with KiCad 8. The PCB Mesurements are aprox 65mm x 40mm. The PCB has Passed DRC Ki Cad Check with only a via warning for the key hole at the top of the cat.
 
 # How It Works
 
