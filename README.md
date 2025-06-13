@@ -18,6 +18,7 @@ Schematic
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6eb77c1b3f80c207622c9fbe97b65fc061078331_cateye-schematic-1.png)
 3D View
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/cdd8752af2113e4879f66066e35ea8cb3ee8275f_3d-pcb.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/34d70e1c3628429901f8468a8113154fdccc6b08_3d-pcb-back.png)
 # BOM 
 
 Here's A Quick List of what i need for my PCB.
